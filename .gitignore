@@ -1,0 +1,10 @@
+# IDE setting folders
+.idea
+.vscode
+
+# Mac Book finder setting files
+.DS_Store
+
+# env
+.env
+.*.env
